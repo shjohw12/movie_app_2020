@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shjohw12/movie_app_2020/static/css/main.61fcefec.css",
+    "main.js": "/shjohw12/movie_app_2020/static/js/main.be94bf15.js",
+    "index.html": "/shjohw12/movie_app_2020/index.html",
+    "main.61fcefec.css.map": "/shjohw12/movie_app_2020/static/css/main.61fcefec.css.map",
+    "main.be94bf15.js.map": "/shjohw12/movie_app_2020/static/js/main.be94bf15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61fcefec.css",
+    "static/js/main.be94bf15.js"
+  ]
+}
